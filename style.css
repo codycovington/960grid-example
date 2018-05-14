@@ -12,6 +12,7 @@ body {
     margin: 5px 10px 5px 10px
 }
 
+/* Creating a main class for the big boxes */
 .main {
     background-color: magenta;
     width: 460px;
@@ -22,7 +23,7 @@ body {
     
 }
 
-
+/* Creating a small class for the smaller boxes */
 .small {
     background-color: magenta;
     width: 300px;
